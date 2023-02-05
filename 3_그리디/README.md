@@ -7,3 +7,4 @@
 
 - [3-1 거스름돈](/3_%EA%B7%B8%EB%A6%AC%EB%94%94/solution3-1.py)
 - [3-2 큰 수의 법칙](/3_%EA%B7%B8%EB%A6%AC%EB%94%94/solution3-2.py)
+- [3-3 숫자 카드게임](/3_%EA%B7%B8%EB%A6%AC%EB%94%94/solution3-3.py)

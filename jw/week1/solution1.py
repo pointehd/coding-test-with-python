@@ -2,8 +2,8 @@
 # https://www.acmicpc.net/problem/1699
 
 # 해설 : https://lakelouise.tistory.com/61
-# RunTime :
-# Memory :
+# RunTime : 4784 ms
+# Memory : 3,5108 KB
 
 n = int(input())
 
@@ -23,6 +23,9 @@ print(dp[n])
 # ==================
 
 
+# 해설 :
+# RunTime : 시간초과
+# Memory :
 n = int(input())
 
 dp = [i for i in range(n + 1)]

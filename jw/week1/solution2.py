@@ -3,8 +3,7 @@
 
 # 해설 :
 # RunTime :
-# Memory :
-
+# Memory : 메모리  초과
 n = int(input())
 
 study = {}

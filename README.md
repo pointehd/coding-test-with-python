@@ -31,4 +31,6 @@
 # 느낌 :
 # RunTime :  ms
 # Memory :  KB
+import sys
+input = sys.stdin.readline
 ```

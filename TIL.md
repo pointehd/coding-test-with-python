@@ -20,3 +20,11 @@
 - 주의 .py 확장자만 적용됨.
 - (해당 프로젝트만)
 - autopep8, black, yapf 등의 규칙이 있다고 하니 관심있으면 확인하기 black으로 시작했으나 맘에들어서 다른것 테스트 X
+
+### 배열 인덱스번호와 값 저장하는법
+
+- 배열 에있는 값을 deque 에 넣으며 key, value 쌍을 만듬. `queue = deque(enumerate(map(int, input().split())))`
+
+### 출력하는법
+
+- 배열 엔터치며 출력하는법 `print(*parents[2:], sep="\n")`
